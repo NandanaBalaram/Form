@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #c2a7afad;
+    color: rebeccapurple
+}
+.bg-table{
+    background-color:rebeccapurple;
+}
+.margin{
+    margin: 5%;
+}
+span{
+    color: red;
+}
+@media screen and( min-width:567px ){
+    .row{
+        width:100%
+    }
+}
